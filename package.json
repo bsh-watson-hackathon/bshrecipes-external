@@ -2,6 +2,7 @@
   "name": "Recipes",
   "version": "0.0.0",
   "dependencies": {
+    "async": "^2.2.0",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "htmlparser": "^1.7.7",
