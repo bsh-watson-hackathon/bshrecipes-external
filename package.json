@@ -4,11 +4,13 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "htmlparser": "^1.7.7",
     "mkdirp": "^0.5.1",
     "mongodb": "^2.2.25",
     "processenv": "^0.1.1",
     "request": "^2.81.0",
-    "require-dir": "^0.3.1"
+    "require-dir": "^0.3.1",
+    "watson-developer-cloud": "^2.27.1"
   },
   "scripts": {
     "start": "node app.js"
