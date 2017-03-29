@@ -10,6 +10,7 @@
     "processenv": "^0.1.1",
     "request": "^2.81.0",
     "require-dir": "^0.3.1",
+    "uuid": "^3.0.1",
     "watson-developer-cloud": "^2.27.1"
   },
   "scripts": {
