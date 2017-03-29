@@ -6,17 +6,14 @@ const http = require('http'),
 const external = require('./lib/external'),
     getApp = require('./lib/getApp');
 
-// var connectionString = null;
-var port = 8888;
+var connectionString = null;
+var port = null;
 
-// if (process.env.VCAP_SERVICES) {
-//     var env = JSON.parse(process.env.VCAP_SERVICES);
-//     connectionString = env['compose-for-mongodb'][0].credentials.uri;
-//     port = process.env.PORT || 3000;
-// } else {
-//     connectionString = processenv('MONGO_URL') || 'mongodb://admin:secret@127.0.0.1:27017/admin',
-//         port = processenv('PORT') || 3000;
-// }
+if (process.env.VCAP_SERVICES) {
+    port = process.env.PORT || 3000;
+} else {
+    port = processenv('PORT') || 3000;
+}
 
 const app = getApp(external);
 

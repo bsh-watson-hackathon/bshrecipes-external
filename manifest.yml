@@ -1,5 +1,4 @@
 applications:
- - name: bshrecipes
-   command: node app.js
+ - name: bsh-recipe-external
    random-route: true
    memory: 256M
