@@ -1,0 +1,5 @@
+applications:
+ - name: bshrecipes
+   command: node app.js
+   random-route: true
+   memory: 256M

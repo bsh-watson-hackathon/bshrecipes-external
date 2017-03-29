@@ -1,0 +1,97 @@
+{
+  "_id":"qPPgWutiWASy6qkPC",
+  "lastModified":1456027202,
+  "vibs":[
+    "C25MS22N0",
+    "B25CR23N1B",
+    "C28MT27N0",
+    "C27MS22N0",
+    "C15MS22N0",
+    "C17MS22N0",
+    "C18MT33N0",
+    "C18MT23N0",
+    "C17MS32N0",
+    "C18MT22N0",
+    "C26MT23N0",
+    "C16MT23N0",
+    "C28MT23N0",
+    "C18MT27N0",
+    "C18QT27N0",
+    "C28QT27N0",
+    "C17MS32N0B",
+    "C18MT36N0B",
+    "C27MS22N0B",
+    "C17MS36N0B",
+    "C18MT37N0B",
+    "C28MT27N0B",
+    "C18MT33N0B"
+  ],
+  "categories":[
+    "BackenSuess",
+    "BackenSuess.Kuchen",
+    "Rezeptkategorien",
+    "Rezeptkategorien.Backen",
+    "Zubereitungsmethoden",
+    "Zubereitungsmethoden.Backen",
+    "Zubereitungsmethoden.Mikrowelle"
+  ],
+  "countries":[
+
+  ],
+  "productTypes":[
+    "Oven"
+  ],
+  "previewImage":"https://cdr-contents-all.s3.eu-central-1.amazonaws.com/rcp-images/mcrc00903372_nf_zwetschgenkuchen_m_walnuss_srreusel-007_rz1_24.jpg",
+  "identifier":"recipe_81641",
+  "type":"Recipe",
+  "keywords":[
+
+  ],
+  "relatedKeywords":[
+
+  ],
+  "contentType":"Recipe",
+  "detailImage":"https://cdr-contents-all.s3.eu-central-1.amazonaws.com/rcp-images/mcrc00903372_nf_zwetschgenkuchen_m_walnuss_srreusel-007_rz1_23.jpg",
+  "data":[
+    {
+      "title":"Zwetschgenkuchen mit Walnuss-Streusel",
+      "description":null,
+      "locale":"de-DE",
+      "url":"file://Content/Recipes/recipe_81641_de.json"
+    },
+    {
+      "title":"Zwetschgenkuchen mit Walnuss-Streusel",
+      "description":null,
+      "locale":"de-AT",
+      "url":"file://Content/Recipes/recipe_81641_de.json"
+    },
+    {
+      "title":"Zwetschgenkuchen mit Walnuss-Streusel",
+      "description":null,
+      "locale":"de-LU",
+      "url":"file://Content/Recipes/recipe_81641_de.json"
+    },
+    {
+      "title":"Torta alle prugne con briciole alle noci",
+      "description":null,
+      "locale":"it-CH",
+      "url":"file://Content/Recipes/recipe_81641_it-CH.json"
+    },
+    {
+      "title":"Torta alle prugne con briciole alle noci",
+      "description":null,
+      "locale":"it-IT",
+      "url":"file://Content/Recipes/recipe_81641_it-IT.json"
+    },
+    {
+      "title":"Zwetschgenkuchen mit Walnuss-Streusel",
+      "description":null,
+      "locale":"de-CH",
+      "url":"file://Content/Recipes/recipe_81641_de-CH.json"
+    }
+  ],
+  "totalTime":0,
+  "rating":0,
+  "kcal":0,
+  "difficulty":0
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Recipes",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "flaschenpost": "^0.15.6",
+    "mongodb": "^2.2.25",
+    "processenv": "^0.1.1",
+    "require-dir": "^0.3.1"
+  }//,
+  //"scripts": { "start" : "nodemon app" } 
+}
